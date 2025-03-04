@@ -7,4 +7,4 @@ According to the Central Limit Theorem, the net displacement should follow a Gau
 The simulation was implemented in Python and simulated 10,000 particles, each undergoing 1,000 collisions. 
 The resulting histogram of net displacements (Figure 2) shows a bell-shaped distribution that closely aligns with the theoretical Gaussian probability density function. 
 The empirical mean was found to be nearly zero, and the empirical standard deviation matched the predicted value of √1000  ×1.0. 
-This excellent agreement supports our model’s hypothesis that turbulence emerges from the cumulative effect of numerous independent molecular collisions.
+This excellent agreement supports my model’s hypothesis that turbulence emerges from the cumulative effect of numerous independent molecular collisions.
